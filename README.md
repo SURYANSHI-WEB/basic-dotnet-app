@@ -1,7 +1,3 @@
-Here is the same content rewritten in **very simple, human, easy-to-understand language** — clear and point-to-point:
-
----
-
 # **Basic .NET Console Application (Simple Explanation)**
 
 This is a small .NET console program that shows how to take input from the user, show output, and do a basic calculation.
@@ -63,3 +59,4 @@ Before running the program, make sure you have:
 ---
 
 Enjoy learning .NET!
+
