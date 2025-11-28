@@ -1,4 +1,4 @@
-# **Basic .NET Console Application (Simple Explanation)**
+# **Basic .NET Console Application**
 
 This is a small .NET console program that shows how to take input from the user, show output, and do a basic calculation.
 
@@ -59,4 +59,5 @@ Before running the program, make sure you have:
 ---
 
 Enjoy learning .NET!
+
 
